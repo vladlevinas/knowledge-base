@@ -3,7 +3,7 @@
 Личная база знаний по DevOps, Linux, Bash, FinTech и AI.
 
 ## Разделы
-- 00_Guides — инструкции (Markdown, Git, Obsidian)
+- [00_Guides](https://github.com/vladlevinas/knowledge-base/tree/main/00_Guides)) — инструкции (Markdown, Git, Obsidian)
 - 01_Bash — основы, редиректы, логирование
 - 02_Linux — администрирование, сеть, права
 - 03_DevOps — Docker, K8s, Terraform, CI/CD, Ansible
